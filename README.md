@@ -6,7 +6,7 @@ Description
 
 A simple desktop client sensex manager which gives you information about your stocks. It gets its data from the net, and it keeps updating itself at regular intervals. You can create an account on it, and it will send you a mail with the details of your account.
 
-*Under Development*
+*Under Development*\n
 I intend to develop an interface with which you can maintain your own portfolio.
 
 To Run
