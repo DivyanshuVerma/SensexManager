@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ROWSET>
+ <ROW>
+  <EMAIL_ID>divyanshuv_1010@yahoo.com</EMAIL_ID>
+  <PASSWORD>abcd</PASSWORD>
+  <FNAME>Divyanshu</FNAME>
+  <LNAME>Verma</LNAME>
+  <DOB>10-OCT-1992</DOB>
+  <GENDER>Male</GENDER>
+ </ROW>
+ <ROW>
+  <EMAIL_ID>dev.verma1010@gmail.com</EMAIL_ID>
+  <PASSWORD>abcd</PASSWORD>
+  <FNAME>Divyanshu</FNAME>
+  <LNAME>Verma</LNAME>
+  <DOB>17-MAR-1992</DOB>
+  <GENDER>Male</GENDER>
+ </ROW>
+</ROWSET>
