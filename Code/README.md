@@ -1,12 +1,8 @@
 SensexManager
 =============
 
-Description
-------------
-
 A simple desktop client sensex manager which gives you information about your stocks. It gets its data from the net, and it keeps updating itself at regular intervals. You can create an account on it, and it will send you a mail with the details of your account.
 
-*Under Development*
 I intend to develop an interface with which you can maintain your own portfolio.
 
 To Run
@@ -23,8 +19,8 @@ So, First, load the xml files in the `tables` directory into your Oracle XE data
 Next, Open the project in Visual Studio by opening `SensexManager.sln` in the `SensexManager` folder.
 That's it!
 
-Authors
--------
+Author
+------
 
 Written by Divyanshu Verma.
 dev.verma1010@gmail.com
